@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* border: 2px solid rgb(37, 124, 128); */ /* Aqui se visualiza el borde de cada caja */
+}
+
+#logo{ /* Atributos de la imagen */
+    width: 200px;
+    height: 70px;
+
+}
+
+.menu1Horizontal{
+    display: inline-block;  /* Pone la lista de esta clase horizontal */
+    list-style: none;
+}
+
